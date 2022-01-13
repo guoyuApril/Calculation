@@ -1,0 +1,13 @@
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.exe
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.deps.json
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.runtimeconfig.json
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.runtimeconfig.dev.json
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.dll
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.pdb
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.csprojAssemblyReference.cache
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfoInputs.cache
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfo.cs
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.csproj.CoreCompileInputs.cache
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.dll
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.pdb
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.genruntimeconfig.cache

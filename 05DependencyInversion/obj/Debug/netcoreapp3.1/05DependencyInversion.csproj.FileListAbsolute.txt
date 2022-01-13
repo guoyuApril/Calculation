@@ -1,0 +1,13 @@
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\bin\Debug\netcoreapp3.1\05DependencyInversion.exe
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\bin\Debug\netcoreapp3.1\05DependencyInversion.deps.json
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\bin\Debug\netcoreapp3.1\05DependencyInversion.runtimeconfig.json
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\bin\Debug\netcoreapp3.1\05DependencyInversion.runtimeconfig.dev.json
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\bin\Debug\netcoreapp3.1\05DependencyInversion.dll
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\bin\Debug\netcoreapp3.1\05DependencyInversion.pdb
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\obj\Debug\netcoreapp3.1\05DependencyInversion.csprojAssemblyReference.cache
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\obj\Debug\netcoreapp3.1\05DependencyInversion.AssemblyInfoInputs.cache
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\obj\Debug\netcoreapp3.1\05DependencyInversion.AssemblyInfo.cs
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\obj\Debug\netcoreapp3.1\05DependencyInversion.csproj.CoreCompileInputs.cache
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\obj\Debug\netcoreapp3.1\05DependencyInversion.dll
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\obj\Debug\netcoreapp3.1\05DependencyInversion.pdb
+D:\Learn\设计思想\大话设计模式（编码）\第一章：工厂模式\Calculation\05DependencyInversion\obj\Debug\netcoreapp3.1\05DependencyInversion.genruntimeconfig.cache

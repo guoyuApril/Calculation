@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vivian.guo.SHAREWORKS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vivian.guo.SHAREWORKS\\.nuget\\packages"
+    ]
+  }
+}
